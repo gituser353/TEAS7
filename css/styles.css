@@ -375,7 +375,7 @@ footer {
     flex-direction: column;
   }
 
-  /* WhatsApp Icon */
+/* WhatsApp Icon */
 .whatsapp-icon {
   position: fixed;
   bottom: 20px;
@@ -411,12 +411,8 @@ footer {
   }
 
   .whatsapp-icon img {
-      width: 25px;
+    margin-top:5%;
+    width: 25px;
     height: 25px;
-  }
-}
-
-  .tab-button {
-    padding: 10px 0;
   }
 }
