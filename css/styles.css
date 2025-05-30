@@ -411,7 +411,8 @@ footer {
   }
 
   .whatsapp-icon img {
-    width: 25px;
+    margin-top: 3%;
+      width: 25px;
     height: 25px;
   }
 }
